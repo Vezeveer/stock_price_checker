@@ -1,3 +1,6 @@
+## Stock Price Checker
+- A project part of the freecodecamp curriculum
+
 **FreeCodeCamp**- Information Security and Quality Assurance
 ------
 
